@@ -89,6 +89,9 @@
       "logic-stmt": {
         "title": "Statements"
       },
+      "ref-errors": {
+        "title": "Errors Reference"
+      },
       "ref-logic-specification": {
         "title": "Ergo Compiler"
       },
